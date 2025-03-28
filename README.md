@@ -21,8 +21,8 @@
 
 <div>
     <h4 align="center">
-        <a href="https://arxiv.org/abs/xxxx.xxxxx" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg">
+        <a href="https://arxiv.org/abs/2503.21777" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2503.21777-b31b1b.svg">
         </a>
         <a href="https://github.com/Jiahao000/VICT" target='_blank'>
         <img src="https://img.shields.io/badge/Project-Page-green">
@@ -39,14 +39,14 @@
 <img src="assets/teaser.png"  width="100%" height="100%">
 </div>
 
-:open_book: For more results, please refer to our <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">paper</a>
+:open_book: For more results, please refer to our <a href="https://arxiv.org/abs/2503.21777" target="_blank">paper</a>
 
 ---
 
 </div>
 
 ## 📣 News
-- [03/2025] 🔥 VICT is released on [arXiv](https://arxiv.org/abs/xxxx.xxxxx).
+- [03/2025] 🔥 VICT is released on [arXiv](https://arxiv.org/abs/2503.21777).
 
 ## 🌟 Method
 
@@ -62,7 +62,7 @@ Specifically, we flip the role between the task prompts and the test sample and 
 
 ### Unseen Domains
 
-#### Middle-/Hight-Level Tasks with Corruptions
+#### Middle-/High-Level Tasks with Corruptions
 
 <div style="text-align:center">
 <img src="assets/unseen_domains_part1.png"  width="100%" height="100%">
@@ -81,7 +81,7 @@ Specifically, we flip the role between the task prompts and the test sample and 
 </div>
 
 ## 👨‍💻 Todo
-- [x] Release the arXiv version.
+- [x] Release the [arXiv](https://arxiv.org/abs/2503.21777) version.
 - [ ] Release the code.
 
 ## 📘 Citation
