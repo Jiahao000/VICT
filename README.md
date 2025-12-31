@@ -80,9 +80,23 @@ Specifically, we flip the role between the task prompts and the test sample and 
 <img src="assets/unseen_tasks.png"  width="100%" height="100%">
 </div>
 
+## 🛠️ Usage
+
+### Installation
+See [installation instructions](docs/INSTALL.md).
+
+### Data
+See [data instructions](docs/DATA.md).
+
+### Training
+See [training instructions](docs/TRAIN.md).
+
+### Evaluation
+See [evaluation instructions](docs/EVAL.md). 
+
 ## 👨‍💻 Todo
 - [x] Release the [arXiv](https://arxiv.org/abs/2503.21777) version.
-- [ ] Release the code.
+- [x] Release the code.
 
 ## 📘 Citation
 If you find this work useful for your research, please consider citing our paper:
@@ -94,3 +108,7 @@ If you find this work useful for your research, please consider citing our paper
   year = {2025}
 }
 ```
+
+## ❤️ Acknowledgement
+
+We acknowledge the use of the following public code in this project: [Painter](https://github.com/baaivision/Painter/tree/main/Painter), [MAE](https://github.com/facebookresearch/mae), [BEiT](https://github.com/microsoft/unilm/tree/master/beit), [detectron2](https://github.com/facebookresearch/detectron2), [Mask2Former](https://github.com/facebookresearch/Mask2Former), [bts](https://github.com/cleinc/bts), [mmcv](https://github.com/open-mmlab/mmcv), [mmdetetection](https://github.com/open-mmlab/mmdetection), [mmpose](https://github.com/open-mmlab/mmpose), [MIRNet](https://github.com/swz30/MIRNet), [MPRNet](https://github.com/swz30/MPRNet), and [Uformer](https://github.com/ZhendongWang6/Uformer).
